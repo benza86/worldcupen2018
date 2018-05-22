@@ -1,0 +1,228 @@
+[
+  {
+    "title":"Infos",
+    "drawable":"",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+
+
+      {
+        "title":"WC 2018",
+        "provider":"wordpress",
+        "arguments":[
+         "http://shevahd.fr/wp-json/wp/v2/",
+          "79"
+        ]
+      }
+
+    ]
+  },
+ {
+    "title":"Highlights & Goals",
+    "drawable":"",
+    "submenu":"Social Media",
+    "iap":false,
+    "tabs":[
+
+      {
+	              "title":"Highlights",
+        "provider":"youtube",
+        "arguments":[
+          "UCShPR_51eeEfreqNnRBLJ2Q",
+          "channel"
+        ]
+ 
+      },
+	      {
+        "title":"English",
+        "provider":"youtube",
+        "arguments":[
+          "UCQ8teRDg67faTu56c2l_IYA",
+          "channel"
+
+        ]
+      },
+	   {
+        "title": " EPL",
+        "provider":"youtube",
+        "arguments":[
+          "UCnfTxMObW3nm-9faQzRGIig",
+          "channel"
+
+        ]
+      },
+	  
+	  	  	   {
+        "title":"LIGA",
+        "provider":"youtube",
+        "arguments":[
+          "UC1rhtAWLDdgcEAo1JKkBKkg",
+          "channel"
+
+        ]
+      },
+	  	   {
+        "title":"Ligue1",
+        "provider":"youtube",
+        "arguments":[
+          "UC58LMAlfwtGRNR6Xpd4DlSA",
+          "channel"
+
+        ]
+      }
+	   ,
+      {
+              "title":"Arabic",
+        "provider":"youtube",
+        "arguments":[
+          "UCgPQ-ItOBKAGQSshL0CFA5w",
+          "channel"
+
+        ]
+      }
+	    ,
+      {
+        "title":"Other",
+        "provider":"youtube",
+        "arguments":[
+          "UCfWnNRm78OM4fmgrkI--RvA",
+          "channel"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"Flash News",
+    "drawable":"",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"FOX SPORTS",
+        "provider":"rss",
+        "arguments":[
+          "https://api.foxsports.com/v1/rss?partnerKey=zBaFxRyGKCfxBagJG9b8pqLyndmvo7UU&tag=soccer"
+
+
+        ]
+      },
+      {
+        "title":"Sky Sports",
+        "provider":"rss",
+        "arguments":[
+          "http://www.skysports.com/rss/12040"  ]
+      },
+      {
+        "title":"live",
+        "provider":"rss",
+        "arguments":[
+          "https://www.scorespro.com/rss2/live-soccer.xml"  ]
+      }
+    ]
+  },
+
+
+  
+ {
+    "title":"Other Highlights",
+    "drawable":"",
+    "submenu":"Social Media",
+    "iap":false,
+    "tabs":[
+
+      {
+        "title":"Arabic Comm",
+        "provider":"youtube",
+        "arguments":[
+          "UCgPQ-ItOBKAGQSshL0CFA5w",
+          "channel"
+
+        ]
+      },
+	   {
+        "title":"Premier League",
+        "provider":"youtube",
+        "arguments":[
+          "UClnK5pKFEwAHpmCpUlZZ8Sw",
+          "channel"
+
+        ]
+      },
+	  	  	   {
+        "title":"Liga",
+        "provider":"youtube",
+        "arguments":[
+          "UC1rhtAWLDdgcEAo1JKkBKkg",
+          "channel"
+
+        ]
+      },
+	  	   {
+        "title":"French Ligue1",
+        "provider":"youtube",
+        "arguments":[
+          "UC58LMAlfwtGRNR6Xpd4DlSA",
+          "channel"
+
+        ]
+      },
+      {
+        "title":"Highlights & Goals ",
+        "provider":"youtube",
+        "arguments":[
+          "UCdyKwzOdSr76_Zov2B3i8ow",
+          "channel"
+        ]
+      }
+    ]
+  },
+
+  {
+    "title":"Match Results",
+    "drawable":"",
+    "submenu":"Other",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "http://www.fifa.com/worldcup/matches/index.html"
+        ]
+      }
+    ]
+
+  },
+  {
+    "title":"Videos",
+    "drawable":"",
+    "submenu":"Other",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Categories",
+        "provider":"overview",
+        "arguments":[
+          "overview.json"
+        ]
+      }
+    ]
+  },
+
+  {
+    "title":"A propos",
+    "drawable":"",
+    "submenu":"Other",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"",
+        "provider":"custom",
+        "arguments":[
+          "com.med.wc2018.SettingsFragment", "fragment"
+        ]
+      }
+    ]
+  }
+]
