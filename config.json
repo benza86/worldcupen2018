@@ -63,6 +63,43 @@
     ]
 
   },
+	 {
+    "title":"WC Program",
+    "drawable":"",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+   {
+        "title":"BBC Sport",
+        "provider":"youtube",
+        "arguments":[
+          "UCW6-BQWFA70Dyyc7ZpZ9Xlg",
+          "channel"
+
+        ]
+      },
+	    {
+        "title":"Tifo Football",
+        "provider":"youtube",
+        "arguments":[
+          "UCGYYNGmyhZ_kwBF_lqqXdAQ",
+          "channel"
+
+        ]
+      }
+	    ,
+	    {
+        "title":"HITC Sport",
+        "provider":"youtube",
+        "arguments":[
+          "UC3UFSVP6ormiRWUg_rmH2zA",
+          "channel"
+
+        ]
+      }
+    ]
+
+  },
  {
     "title":"Highlights & Goals",
     "drawable":"",
