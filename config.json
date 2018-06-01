@@ -137,6 +137,21 @@
       }
     ]
   },
+	  {
+    "title":"Live Match",
+    "drawable":"",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Live",
+        "provider":"stream",
+        "arguments":[
+          "http://54.36.108.6:8000/live/oNX0sIjlHr/7qwD5oMujf/2563.ts"
+        ]
+      }
+    ]
+  },
   {
     "title":"Flash News",
     "drawable":"",
