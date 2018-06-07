@@ -1,142 +1,67 @@
 [
   {
-    "title":"Infos",
+    "title":"أخبار",
     "drawable":"",
     "submenu":"",
     "iap":false,
     "tabs":[
-
-
+	      {
+        "title":"كأس العالم",
+        "provider":"wordpress",
+        "arguments":[
+         "http://shevahd.fr/wp-json/wp/v2/",
+          "18"
+        ]
+      }
+	  ,
       {
-        "title":"WC 2018_EN",
+        "title":"اخر الاخبار",
         "provider":"wordpress",
         "arguments":[
-         "http://shevahd.fr/wp-json/wp/v2/",
-          "79"
+          "http://shevahd.fr/wp-json/wp/v2/"
         ]
       }
-,
-	       {
-        "title":"WC 2018_FR",
-        "provider":"wordpress",
-        "arguments":[
-         "http://shevahd.fr/wp-json/wp/v2/",
-          "88"
-        ]
-      }
+
     ]
   },
-	  {
-    "title":"Le Sport avec CANAL",
-    "drawable":"",
-    "submenu":"",
-    "iap":false,
-    "tabs":[
-   {
-        "title":"Le Sport avec CANAL",
-        "provider":"youtube",
-        "arguments":[
-          "UC8ggH3zU61XO0nMskSQwZdA",
-          "channel"
-
-        ]
-      },
-	    {
-        "title":"Foot Mercato",
-        "provider":"youtube",
-        "arguments":[
-          "UCrzDtXyuSBch2u_31JJj-Dw",
-          "channel"
-
-        ]
-      }
-	    ,
-	    {
-        "title":"AFTER FOOT",
-        "provider":"youtube",
-        "arguments":[
-          "UCUdwSuEopnWNpibR9-dgciw",
-          "channel"
-
-        ]
-      }
-    ]
-
-  },
-	 {
-    "title":"WC Program",
-    "drawable":"",
-    "submenu":"",
-    "iap":false,
-    "tabs":[
-   {
-        "title":"BBC Sport",
-        "provider":"youtube",
-        "arguments":[
-          "UCW6-BQWFA70Dyyc7ZpZ9Xlg",
-          "channel"
-
-        ]
-      },
-	    {
-        "title":"Tifo Football",
-        "provider":"youtube",
-        "arguments":[
-          "UCGYYNGmyhZ_kwBF_lqqXdAQ",
-          "channel"
-
-        ]
-      }
-	    ,
-	    {
-        "title":"HITC Sport",
-        "provider":"youtube",
-        "arguments":[
-          "UC3UFSVP6ormiRWUg_rmH2zA",
-          "channel"
-
-        ]
-      }
-    ]
-
-  },
- {
-    "title":"Highlights & Goals",
+  
+  {
+    "title":"برمج تونس في المونديال",
     "drawable":"",
     "submenu":"Social Media",
     "iap":false,
     "tabs":[
 
       {
-	              "title":"Highlights",
+	              "title":"برنامج مندياليست",
         "provider":"youtube",
         "arguments":[
-          "UCShPR_51eeEfreqNnRBLJ2Q",
-          "channel"
+          "PLtKHe7Z2QnnECA3_-46wkQxwMNW5ofjvi",
+          "playlist"
         ]
  
       },
 	      {
-        "title":"English",
+        "title":"اخر الأخبار",
         "provider":"youtube",
         "arguments":[
-          "UCQ8teRDg67faTu56c2l_IYA",
-          "channel"
+          "PLmQHtil5-0QVP7WrmcVfrTYycQ8IxM9z5",
+          "playlist"
 
         ]
       },
 	   {
-        "title": " EPL",
+        "title":"L'équipe (en bas)",
         "provider":"youtube",
         "arguments":[
-          "UCnfTxMObW3nm-9faQzRGIig",
-          "channel"
+          "PLTGtCMX0-RuJpehKQ68RLqeUqfU1UFJIt",
+          "playlist"
 
         ]
       },
 	  
 	  	  	   {
-        "title":"LIGA",
+        "title":"الدوري الاسباني",
         "provider":"youtube",
         "arguments":[
           "UC1rhtAWLDdgcEAo1JKkBKkg",
@@ -145,17 +70,26 @@
         ]
       },
 	  	   {
-        "title":"Ligue1",
+        "title":"الدوري الفرنسي",
         "provider":"youtube",
         "arguments":[
           "UC58LMAlfwtGRNR6Xpd4DlSA",
           "channel"
 
         ]
+      },
+     
+      {
+        "title":"الدوري السعودي",
+        "provider":"youtube",
+        "arguments":[
+          "UCuv25YFiKY3NUnuG7q7F3ng",
+          "channel"
+        ]
       }
 	   ,
       {
-              "title":"Arabic",
+              "title":"تعليق عربي",
         "provider":"youtube",
         "arguments":[
           "UCgPQ-ItOBKAGQSshL0CFA5w",
@@ -165,7 +99,7 @@
       }
 	    ,
       {
-        "title":"Other",
+        "title":"مقتطفات",
         "provider":"youtube",
         "arguments":[
           "UCfWnNRm78OM4fmgrkI--RvA",
@@ -174,95 +108,8 @@
       }
     ]
   },
-	 
   {
-    "title":"Flash News",
-    "drawable":"",
-    "submenu":"",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"FOX SPORTS",
-        "provider":"rss",
-        "arguments":[
-          "https://api.foxsports.com/v1/rss?partnerKey=zBaFxRyGKCfxBagJG9b8pqLyndmvo7UU&tag=soccer"
-
-
-        ]
-      },
-      {
-        "title":"Sky Sports",
-        "provider":"rss",
-        "arguments":[
-          "http://www.skysports.com/rss/12040"  ]
-      },
-      {
-        "title":"live",
-        "provider":"rss",
-        "arguments":[
-          "https://www.scorespro.com/rss2/live-soccer.xml"  ]
-      }
-    ]
-  },
-
-
-  
- {
-    "title":"Other Highlights",
-    "drawable":"",
-    "submenu":"Social Media",
-    "iap":false,
-    "tabs":[
-
-      {
-        "title":"Arabic Comm",
-        "provider":"youtube",
-        "arguments":[
-          "UCgPQ-ItOBKAGQSshL0CFA5w",
-          "channel"
-
-        ]
-      },
-	   {
-        "title":"Premier League",
-        "provider":"youtube",
-        "arguments":[
-          "UClnK5pKFEwAHpmCpUlZZ8Sw",
-          "channel"
-
-        ]
-      },
-	  	  	   {
-        "title":"Liga",
-        "provider":"youtube",
-        "arguments":[
-          "UC1rhtAWLDdgcEAo1JKkBKkg",
-          "channel"
-
-        ]
-      },
-	  	   {
-        "title":"French Ligue1",
-        "provider":"youtube",
-        "arguments":[
-          "UC58LMAlfwtGRNR6Xpd4DlSA",
-          "channel"
-
-        ]
-      },
-      {
-        "title":"Highlights & Goals ",
-        "provider":"youtube",
-        "arguments":[
-          "UCdyKwzOdSr76_Zov2B3i8ow",
-          "channel"
-        ]
-      }
-    ]
-  },
-
-  {
-    "title":"Match Results",
+    "title":"بث مباشر",
     "drawable":"",
     "submenu":"Other",
     "iap":false,
@@ -271,14 +118,50 @@
         "title":"WebView",
         "provider":"webview",
         "arguments":[
-          "http://www.fifa.com/worldcup/matches/index.html"
+          "https://www.kol7sry.news/p/yalla-shoot.html?m=0"
         ]
       }
     ]
 
   },
   {
-    "title":"Videos",
+    "title":"أخبار سريعة",
+    "drawable":"",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+
+      {
+        "title":"FRance 24",
+        "provider":"rss",
+        "arguments":[
+          "http://www.france24.com/ar/sport/rss"
+
+
+        ]
+      }
+    ]
+  },
+
+
+  {
+    "title":"نتائج",
+    "drawable":"",
+    "submenu":"Other",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "http://ar.fifa.com/worldcup/matches/index.html"
+        ]
+      }
+    ]
+
+  },
+  {
+    "title":"فيديوهات",
     "drawable":"",
     "submenu":"Other",
     "iap":false,
@@ -294,7 +177,7 @@
   },
 
   {
-    "title":"A propos",
+    "title":"عن التطبيق",
     "drawable":"",
     "submenu":"Other",
     "iap":false,
@@ -303,7 +186,7 @@
         "title":"",
         "provider":"custom",
         "arguments":[
-          "com.med.wc2018.SettingsFragment", "fragment"
+          "com.knoozapps.mytcc.SettingsFragment", "fragment"
         ]
       }
     ]
