@@ -1,31 +1,5 @@
 [
-  {
-    "title":"Infos",
-    "drawable":"",
-    "submenu":"",
-    "iap":false,
-    "tabs":[
-
-
-      {
-        "title":"WC 2018_EN",
-        "provider":"wordpress",
-        "arguments":[
-         "http://shevahd.fr/wp-json/wp/v2/",
-          "79"
-        ]
-      }
-,
-	       {
-        "title":"WC 2018_FR",
-        "provider":"wordpress",
-        "arguments":[
-         "http://shevahd.fr/wp-json/wp/v2/",
-          "88"
-        ]
-      }
-    ]
-  },
+  
 	  {
     "title":"Le Sport avec CANAL",
     "drawable":"",
