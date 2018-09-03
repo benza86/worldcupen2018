@@ -1,5 +1,20 @@
 [
-  
+   {
+    "title":"LiveScore",
+    "drawable":"",
+    "submenu":"Other",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "http://www.matchendirect.fr/"
+        ]
+      }
+    ]
+
+  },
 	  {
     "title":"Le Sport avec CANAL",
     "drawable":"",
