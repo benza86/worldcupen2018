@@ -32,7 +32,8 @@
 
   },
 	
-	 
+	
+		 
  {
     "title":"Highlights & Goals",
     "drawable":"",
@@ -97,6 +98,123 @@
           "channel"
         ]
       }
+    ]
+  },
+	 
+ {
+    "title":"CLUB",
+    "drawable":"",
+    "submenu":"VIDEOS",
+    "iap":false,
+    "tabs":[
+
+      {
+	              "title":"Manchester",
+        "provider":"youtube",
+        "arguments":[
+          "UC6yW44UGJJBvYTlfC7CRg2Q",
+          "channel"
+        ]
+ 
+      },
+	    
+	   {
+        "title": "Real Madrid",
+        "provider":"youtube",
+        "arguments":[
+          "UCWV3obpZVGgJ3j9FVhEjF2Q",
+          "channel"
+
+        ]
+      },
+	  
+	  	  	   {
+        "title":"FCBarcelone",
+        "provider":"youtube",
+        "arguments":[
+          "UC14UlmYlSNiQCBe9Eookf_A",
+          "channel"
+
+        ]
+      },
+	  	   {
+        "title":"Ligue1",
+        "provider":"youtube",
+        "arguments":[
+          "UC58LMAlfwtGRNR6Xpd4DlSA",
+          "channel"
+
+        ]
+      }
+	   ,
+      {
+              "title":"Juventus",
+        "provider":"youtube",
+        "arguments":[
+          "UCLzKhsxrExAC6yAdtZ-BOWw",
+          "channel"
+
+        ]
+      }
+	    ,
+      {
+        "title":"ACMilan",
+        "provider":"youtube",
+        "arguments":[
+          "UCKcx1uK38H4AOkmfv4ywlrg",
+          "channel"
+        ]
+      },
+	      {
+              "title":"Arsenal",
+        "provider":"youtube",
+        "arguments":[
+          "UCpryVRk_VDudG8SHXgWcG0w",
+          "channel"
+
+        ]
+      }
+	    ,
+	  {
+              "title":"Juventus",
+        "provider":"youtube",
+        "arguments":[
+          "UCLzKhsxrExAC6yAdtZ-BOWw",
+          "channel"
+
+        ]
+      }
+	    ,
+	  {
+              "title":"Bayern",
+        "provider":"youtube",
+        "arguments":[
+          "UCZkcxFIsqW5htimoUQKA0iA",
+          "channel"
+
+        ]
+      }
+	    ,
+	  {
+              "title":"Man City",
+        "provider":"youtube",
+        "arguments":[
+          "UCkzCjdRMrW2vXLx8mvPVLdQ",
+          "channel"
+
+        ]
+      }
+	    ,
+	  {
+              "title":"PSG",
+        "provider":"youtube",
+        "arguments":[
+          "UCt9a_qP9CqHCNwilf-iULag",
+          "channel"
+
+        ]
+      }
+	    
     ]
   },
   {
