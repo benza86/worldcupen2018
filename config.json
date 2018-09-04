@@ -2,7 +2,7 @@
    {
     "title":"LiveScore",
     "drawable":"",
-    "submenu":"Other",
+    "submenu":"Direct Score",
     "iap":false,
     "tabs":[
       {
@@ -61,47 +61,11 @@
     ]
 
   },
-	 {
-    "title":"WC Program",
-    "drawable":"",
-    "submenu":"",
-    "iap":false,
-    "tabs":[
-   {
-        "title":"BBC Sport",
-        "provider":"youtube",
-        "arguments":[
-          "UCW6-BQWFA70Dyyc7ZpZ9Xlg",
-          "channel"
-
-        ]
-      },
-	    {
-        "title":"Tifo Football",
-        "provider":"youtube",
-        "arguments":[
-          "UCGYYNGmyhZ_kwBF_lqqXdAQ",
-          "channel"
-
-        ]
-      }
-	    ,
-	    {
-        "title":"HITC Sport",
-        "provider":"youtube",
-        "arguments":[
-          "UC3UFSVP6ormiRWUg_rmH2zA",
-          "channel"
-
-        ]
-      }
-    ]
-
-  },
+	 
  {
     "title":"Highlights & Goals",
     "drawable":"",
-    "submenu":"Social Media",
+    "submenu":"VIDEOS",
     "iap":false,
     "tabs":[
 
@@ -109,32 +73,24 @@
 	              "title":"Highlights",
         "provider":"youtube",
         "arguments":[
-          "UCShPR_51eeEfreqNnRBLJ2Q",
+          "UCQ8teRDg67faTu56c2l_IYA",
           "channel"
         ]
  
       },
-	      {
-        "title":"English",
-        "provider":"youtube",
-        "arguments":[
-          "UCQ8teRDg67faTu56c2l_IYA",
-          "channel"
-
-        ]
-      },
+	    
 	   {
-        "title": " EPL",
+        "title": "LIGA ",
         "provider":"youtube",
         "arguments":[
-          "UCnfTxMObW3nm-9faQzRGIig",
+          "UCTv-XvfzLX3i4IGWAm4sbmA",
           "channel"
 
         ]
       },
 	  
 	  	  	   {
-        "title":"LIGA",
+        "title":"LIGA Spanish",
         "provider":"youtube",
         "arguments":[
           "UC1rhtAWLDdgcEAo1JKkBKkg",
