@@ -60,6 +60,24 @@
 
         ]
       },
+	          {
+	              "title":"Premier league",
+        "provider":"youtube",
+        "arguments":[
+          "UCCpOeX1qdwZSehmYVXoW-xQ",
+          "channel"
+        ]
+ 
+      },
+	           {
+	              "title":"Premier league Arabic All",
+        "provider":"youtube",
+        "arguments":[
+          "UC4BXZNR6C36T8zdxnG_LrOw",
+          "channel"
+        ]
+ 
+      },
 	  
 	  	  	   {
         "title":"LIGA Spanish",
@@ -69,6 +87,16 @@
           "channel"
 
         ]
+      },
+	    
+	           {
+	              "title":"Extr Goals HD",
+        "provider":"youtube",
+        "arguments":[
+          "UC7j6guplEvleyKE4kx9Yyzg",
+          "channel"
+        ]
+ 
       },
 	  	   {
         "title":"Ligue1",
