@@ -32,7 +32,22 @@
 
   },
 	
-	
+ {
+    "title":"Standing",
+    "drawable":"",
+    "submenu":"Direct Score",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "http://t.flashscore.ca/#!/soccer/standings"
+        ]
+      }
+    ]
+
+  },	
 		 
  {
     "title":"Highlights & Goals",
