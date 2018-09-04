@@ -15,52 +15,7 @@
     ]
 
   },
-	  {
-    "title":"Le Sport avec CANAL",
-    "drawable":"",
-    "submenu":"",
-    "iap":false,
-    "tabs":[
-   {
-        "title":"Le Sport avec CANAL",
-        "provider":"youtube",
-        "arguments":[
-          "UC8ggH3zU61XO0nMskSQwZdA",
-          "channel"
-
-        ]
-      },
-	       {
-        "title":"Debrief Résumé Réactions ",
-        "provider":"youtube",
-        "arguments":[
-          "UC_kQdpdpTov-G4juDePL8ag",
-          "channel"
-
-        ]
-      },
-	    {
-        "title":"Foot Mercato",
-        "provider":"youtube",
-        "arguments":[
-          "UCrzDtXyuSBch2u_31JJj-Dw",
-          "channel"
-
-        ]
-      }
-	    ,
-	    {
-        "title":"AFTER FOOT",
-        "provider":"youtube",
-        "arguments":[
-          "UCUdwSuEopnWNpibR9-dgciw",
-          "channel"
-
-        ]
-      }
-    ]
-
-  },
+	
 	 
  {
     "title":"Highlights & Goals",
@@ -128,7 +83,52 @@
       }
     ]
   },
-	 
+  {
+    "title":"Le Sport avec CANAL",
+    "drawable":"",
+    "submenu":"Emissions",
+    "iap":false,
+    "tabs":[
+   {
+        "title":"Le Sport avec CANAL",
+        "provider":"youtube",
+        "arguments":[
+          "UC8ggH3zU61XO0nMskSQwZdA",
+          "channel"
+
+        ]
+      },
+	       {
+        "title":"Debrief Résumé Réactions ",
+        "provider":"youtube",
+        "arguments":[
+          "UC_kQdpdpTov-G4juDePL8ag",
+          "channel"
+
+        ]
+      },
+	    {
+        "title":"Foot Mercato",
+        "provider":"youtube",
+        "arguments":[
+          "UCrzDtXyuSBch2u_31JJj-Dw",
+          "channel"
+
+        ]
+      }
+	    ,
+	    {
+        "title":"AFTER FOOT",
+        "provider":"youtube",
+        "arguments":[
+          "UCUdwSuEopnWNpibR9-dgciw",
+          "channel"
+
+        ]
+      }
+    ]
+
+  },	 
   {
     "title":"Flash News",
     "drawable":"",
@@ -160,60 +160,6 @@
   },
 
 
-  
- {
-    "title":"Other Highlights",
-    "drawable":"",
-    "submenu":"Social Media",
-    "iap":false,
-    "tabs":[
-
-      {
-        "title":"Arabic Comm",
-        "provider":"youtube",
-        "arguments":[
-          "UCgPQ-ItOBKAGQSshL0CFA5w",
-          "channel"
-
-        ]
-      },
-	   {
-        "title":"Premier League",
-        "provider":"youtube",
-        "arguments":[
-          "UClnK5pKFEwAHpmCpUlZZ8Sw",
-          "channel"
-
-        ]
-      },
-	  	  	   {
-        "title":"Liga",
-        "provider":"youtube",
-        "arguments":[
-          "UC1rhtAWLDdgcEAo1JKkBKkg",
-          "channel"
-
-        ]
-      },
-	  	   {
-        "title":"French Ligue1",
-        "provider":"youtube",
-        "arguments":[
-          "UC58LMAlfwtGRNR6Xpd4DlSA",
-          "channel"
-
-        ]
-      },
-      {
-        "title":"Highlights & Goals ",
-        "provider":"youtube",
-        "arguments":[
-          "UCdyKwzOdSr76_Zov2B3i8ow",
-          "channel"
-        ]
-      }
-    ]
-  },
 
   {
     "title":"Match Results",
@@ -225,7 +171,7 @@
         "title":"WebView",
         "provider":"webview",
         "arguments":[
-          "http://www.fifa.com/worldcup/matches/index.html"
+          "http://t.flashscore.ca/#!/"
         ]
       }
     ]
